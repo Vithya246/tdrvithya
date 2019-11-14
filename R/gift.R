@@ -1,5 +1,5 @@
 #install.packages("devtools")
 library(devtools)
-devtools::install_github("Vithya246/mypackage_a")
+devtools::install_github("Vithya246/tdrvithya")
 
-mypackagea::cadeau("MPascucci")
+tdrvithya::cadeau("MPascucci")
